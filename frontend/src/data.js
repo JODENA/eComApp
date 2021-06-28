@@ -24,8 +24,8 @@ const data = {
 		},
 		{
 			_id: '3',
-			name: 'Lacoste Free Shirt',
-			category: 'Shirts',
+			name: 'Lacoste Free Pants',
+			category: 'Pants',
 			image: '/images/p4.jpg',
 			price: 180,
 			rating: 4.8,
@@ -57,8 +57,8 @@ const data = {
 		},
 		{
 			_id: '6',
-			name: 'Adidas Slim Pant',
-			category: 'Pants',
+			name: 'Adidas Slim Shirts',
+			category: 'Shirts',
 			image: '/images/p7.jpg',
 			price: 112,
 			rating: 4.5,
